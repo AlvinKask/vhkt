@@ -1,1 +1,2 @@
-30 päeva jäänud
+- 30 päeva jäänud
+- 29 päeva jäänud
