@@ -1,3 +1,4 @@
 - 30 päeva jäänud
 - 29 päeva jäänud
 - 28 päeva jäänud
+- 27 päeva jäänud (E)
