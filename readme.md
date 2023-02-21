@@ -1,1 +1,2 @@
 - 27 päeva jäänud (E)
+- 26 päeva jäänud
