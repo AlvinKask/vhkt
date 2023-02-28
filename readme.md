@@ -1,2 +1,2 @@
 - 20 päeva jäänud (E)
-- 20 päeva jäänud
+- 19 päeva jäänud
