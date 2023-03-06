@@ -1,7 +1,1 @@
-- 20 päeva jäänud (E)
-- 19 päeva jäänud
-- 18 päeva jäänud
-- 17 päeva jäänud
-- 16 päeva jäänud
-- 15 päeva jäänud
-- 14 päeva jäänud
+- 13 päeva jäänud (E)
