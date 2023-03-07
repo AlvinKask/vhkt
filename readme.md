@@ -1,1 +1,2 @@
 - 13 päeva jäänud (E)
+- 12 päeva jäänud
