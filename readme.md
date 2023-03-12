@@ -4,3 +4,4 @@
 - 10 päeva jäänud
 - 9 päeva jäänud
 - 8 päeva jäänud
+- 7 päeva jäänud
