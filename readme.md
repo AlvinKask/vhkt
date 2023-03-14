@@ -1,1 +1,2 @@
 - 6 päeva jäänud (E)
+- 5 päeva jäänud
