@@ -2,3 +2,4 @@
 - 5 päeva jäänud
 - 4 päeva jäänud
 - 3 päeva jäänud
+- 2 päeva jäänud
