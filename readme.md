@@ -4,3 +4,4 @@
 - 3 päeva jäänud
 - 2 päeva jäänud
 - 1 päev jäänud
+- 0 päeva jäänud (kõik-läbi-finito)
